@@ -11,13 +11,19 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: appTitle,
       home: Scaffold(
-        appBar: AppBar(
-          title: const Text(appTitle),
-        ),
-        body: const Center(
-          child: Text('Hello World'),
-        ),
-      ),
+          appBar: AppBar(
+            title: const Text(appTitle),
+          ),
+          body: const SingleChildScrollView(
+            child: Column(
+              children: [
+                TitleSection(
+                  name: 'Oeschinen Lake Campground',
+                  location: 'Kandersteg, Switzerland',
+                ),
+              ],
+            ),
+          )),
     );
   }
 }
