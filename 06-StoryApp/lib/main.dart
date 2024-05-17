@@ -33,7 +33,7 @@ class _StoryPageState extends State<StoryPage> {
       body: Container(
         decoration: const BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('images/background.png'),
+            image: AssetImage('images/daun.png'),
             fit: BoxFit.cover,
           ),
         ),
@@ -63,15 +63,17 @@ class _StoryPageState extends State<StoryPage> {
                     });
                   },
                   style: ButtonStyle(
-                    backgroundColor: MaterialStateProperty.all(Colors.red),
+                    backgroundColor:
+                        MaterialStateProperty.all(Color(0XFF795458)),
                     elevation: MaterialStateProperty.all(2),
-                    textStyle: MaterialStateProperty.all(
-                        const TextStyle(fontSize: 20.0)),
                   ),
-                  child: Text(
-                    storyBrain.getChoice1(),
-                    style: const TextStyle(
-                      fontSize: 20.0,
+                  child: Center(
+                    child: Text(
+                      storyBrain.getChoice1(),
+                      style: const TextStyle(
+                        fontSize: 20.0,
+                        color: Colors.white,
+                      ),
                     ),
                   ),
                 ),
@@ -89,10 +91,18 @@ class _StoryPageState extends State<StoryPage> {
                         storyBrain.nextStory(2);
                       });
                     },
-                    child: Text(
-                      storyBrain.getChoice2(),
-                      style: const TextStyle(
-                        fontSize: 20.0,
+                    style: ButtonStyle(
+                      backgroundColor:
+                          MaterialStateProperty.all(Color(0XFF503C3C)),
+                      elevation: MaterialStateProperty.all(2),
+                    ),
+                    child: Center(
+                      child: Text(
+                        storyBrain.getChoice2(),
+                        style: const TextStyle(
+                          fontSize: 20.0,
+                          color: Colors.white,
+                        ),
                       ),
                     ),
                   ),
