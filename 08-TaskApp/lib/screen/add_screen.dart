@@ -9,12 +9,12 @@ class AddScreen extends StatelessWidget {
     String descriptionText = '';
 
     return Scaffold(
-      backgroundColor: Colors.deepPurple[300],
+      backgroundColor: Color(0XFFEEE7DA),
       appBar: AppBar(
         title: Text('Task Manager'),
         centerTitle: true,
         elevation: 0,
-        backgroundColor: Colors.transparent,
+        backgroundColor: Color(0XFF75A47F),
       ),
       body: Padding(
         padding: EdgeInsets.only(
@@ -32,13 +32,13 @@ class AddScreen extends StatelessWidget {
                 hintStyle: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
-                  color: Colors.white,
+                  color: Color(0XFF114232),
                 ),
               ),
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
-                color: Colors.white,
+                color: Color(0XFF114232),
               ),
               onChanged: (value) {
                 titleText = value;
@@ -51,12 +51,12 @@ class AddScreen extends StatelessWidget {
                   hintText: 'Enter Description',
                   hintStyle: TextStyle(
                     fontSize: 18,
-                    color: Colors.white,
+                    color: Color(0XFF114232),
                   ),
                 ),
                 style: TextStyle(
                   fontSize: 18,
-                  color: Colors.white,
+                  color: Color(0XFF114232),
                 ),
                 onChanged: (value) {
                   descriptionText = value;
@@ -72,13 +72,13 @@ class AddScreen extends StatelessWidget {
               style: TextButton.styleFrom(
                 padding:
                     EdgeInsets.only(left: 30, right: 30, top: 10, bottom: 10),
-                backgroundColor: Colors.white,
+                backgroundColor: Color(0XFFBACD92),
               ),
               child: Text('Add Note',
                   style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
-                    color: Colors.deepPurple[300],
+                    color: Color(0XFF114232),
                   )),
             )
           ],

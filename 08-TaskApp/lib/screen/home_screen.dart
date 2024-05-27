@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.deepPurple[300],
+      backgroundColor: Color(0xFFEEE7DA),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           Navigator.push(
@@ -21,7 +21,7 @@ class HomeScreen extends StatelessWidget {
         child: Icon(
           Icons.add,
           size: 30,
-          color: Colors.deepPurple[300],
+          color: Color(0XFF114232),
         ),
         backgroundColor: Colors.white,
       ),
@@ -29,13 +29,13 @@ class HomeScreen extends StatelessWidget {
         title: Text(
           'Task Manager',
           style: TextStyle(
-            fontSize: 25,
-            fontWeight: FontWeight.bold,
-          ),
+              fontSize: 25,
+              fontWeight: FontWeight.bold,
+              color: Color(0XFF114232)),
         ),
         centerTitle: true,
         elevation: 0,
-        backgroundColor: Colors.transparent,
+        backgroundColor: Color(0XFF75A47F),
       ),
       body: Consumer<NotesOperation>(
         builder: (context, NotesOperation data, child) {
@@ -63,7 +63,7 @@ class NotesCard extends StatelessWidget {
       padding: EdgeInsets.all(15),
       height: 150,
       decoration: BoxDecoration(
-        color: Colors.white,
+        color: Color(0xFFBACD92),
         borderRadius: BorderRadius.circular(15),
       ),
       child: Column(
@@ -71,12 +71,15 @@ class NotesCard extends StatelessWidget {
         children: [
           Text(
             note.title,
-            style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            style: TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.bold,
+                color: Color(0XFF114232)),
           ),
           SizedBox(height: 5),
           Text(
             note.description,
-            style: TextStyle(fontSize: 17),
+            style: TextStyle(fontSize: 17, color: Color(0XFF114232)),
           ),
         ],
       ),
