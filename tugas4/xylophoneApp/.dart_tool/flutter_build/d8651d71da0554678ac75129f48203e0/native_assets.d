@@ -1,1 +1,0 @@
- C:\\Users\\BADRIYAH\ HUSNAYAH\\OneDrive\\Documents\\kuliah\\SMT_6\\Prak\ PBM\\Tugas-PrakPBM\\tugas4\\.dart_tool\\flutter_build\\d8651d71da0554678ac75129f48203e0\\native_assets.yaml: 

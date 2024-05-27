@@ -1,4 +1,0 @@
-#Mon Apr 01 11:35:14 WIB 2024
-base.0=C\:\\Users\\BADRIYAH HUSNAYAH\\OneDrive\\Documents\\kuliah\\SMT_6\\Prak PBM\\Tugas-PrakPBM\\tugas3\\iampoor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
