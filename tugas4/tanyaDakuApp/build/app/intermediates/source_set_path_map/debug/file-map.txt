@@ -1,0 +1,12 @@
+com.example.tanya_daku.app-core-1.6.0-0 C:\Users\BADRIYAH HUSNAYAH\.gradle\caches\transforms-3\200a576eda084a09550ebc2ea22cb4a5\transformed\core-1.6.0\res
+com.example.tanya_daku.app-jetified-annotation-experimental-1.1.0-1 C:\Users\BADRIYAH HUSNAYAH\.gradle\caches\transforms-3\25d10a17dc8ad1a5b3e7a462dcbe183e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.tanya_daku.app-jetified-window-java-1.0.0-beta04-2 C:\Users\BADRIYAH HUSNAYAH\.gradle\caches\transforms-3\4b3a5ba95f21a06952d568097b3e5266\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.tanya_daku.app-jetified-window-1.0.0-beta04-3 C:\Users\BADRIYAH HUSNAYAH\.gradle\caches\transforms-3\4b5a18471ec833030c46d3531975dc92\transformed\jetified-window-1.0.0-beta04\res
+com.example.tanya_daku.app-debug-4 C:\Users\BADRIYAH HUSNAYAH\OneDrive\Documents\kuliah\SMT_6\Prak PBM\Tugas-PrakPBM\tugas4\tanyaDakuApp\android\app\src\debug\res
+com.example.tanya_daku.app-main-5 C:\Users\BADRIYAH HUSNAYAH\OneDrive\Documents\kuliah\SMT_6\Prak PBM\Tugas-PrakPBM\tugas4\tanyaDakuApp\android\app\src\main\res
+com.example.tanya_daku.app-pngs-6 C:\Users\BADRIYAH HUSNAYAH\OneDrive\Documents\kuliah\SMT_6\Prak PBM\Tugas-PrakPBM\tugas4\tanyaDakuApp\build\app\generated\res\pngs\debug
+com.example.tanya_daku.app-resValues-7 C:\Users\BADRIYAH HUSNAYAH\OneDrive\Documents\kuliah\SMT_6\Prak PBM\Tugas-PrakPBM\tugas4\tanyaDakuApp\build\app\generated\res\resValues\debug
+com.example.tanya_daku.app-rs-8 C:\Users\BADRIYAH HUSNAYAH\OneDrive\Documents\kuliah\SMT_6\Prak PBM\Tugas-PrakPBM\tugas4\tanyaDakuApp\build\app\generated\res\rs\debug
+com.example.tanya_daku.app-mergeDebugResources-9 C:\Users\BADRIYAH HUSNAYAH\OneDrive\Documents\kuliah\SMT_6\Prak PBM\Tugas-PrakPBM\tugas4\tanyaDakuApp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.tanya_daku.app-mergeDebugResources-10 C:\Users\BADRIYAH HUSNAYAH\OneDrive\Documents\kuliah\SMT_6\Prak PBM\Tugas-PrakPBM\tugas4\tanyaDakuApp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.tanya_daku.app-merged_res-11 C:\Users\BADRIYAH HUSNAYAH\OneDrive\Documents\kuliah\SMT_6\Prak PBM\Tugas-PrakPBM\tugas4\tanyaDakuApp\build\app\intermediates\merged_res\debug
