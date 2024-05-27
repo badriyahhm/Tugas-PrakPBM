@@ -1,1 +1,0 @@
- C:\\Users\\BADRIYAH\ HUSNAYAH\\PBM-Projects\\tugas5\\.dart_tool\\flutter_build\\0861e6cfbb614ba236f842e5874ac4d8\\native_assets.yaml: 

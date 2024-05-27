@@ -1,4 +1,0 @@
-#Tue May 07 18:15:39 WIB 2024
-base.0=C\:\\Users\\BADRIYAH HUSNAYAH\\PBM-Projects\\tugas5\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
