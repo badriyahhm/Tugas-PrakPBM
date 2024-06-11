@@ -68,9 +68,7 @@ class _LoginPageState extends State<LoginPage> {
                 child: Text(
                   'Register',
                   style: GoogleFonts.poppins(
-                    fontSize: size * 0.040,
-                    color: Colors.black,
-                  ),
+                      fontSize: size * 0.040, color: Colors.black),
                 ),
               ),
             ],
